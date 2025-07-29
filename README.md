@@ -1,1 +1,17 @@
 # Sadiqmakarfi.github.io
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Sadiq Makarfi - Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Sadiq Makarfi</h1>
+    <p>Cybersecurity Enthusiast & Tech Learner</p>
+  </header>
+
+  <section class="about">
+    <h2>About Me</h2>>
